@@ -7,39 +7,52 @@
     <link rel="stylesheet" href="login.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
 </head>
+
 <body>
+
     <div class="container">
         <div class="form-box">
             <h1 id="title">Login</h1>
-            <form>
+            <form action="insert.php" method="POST">
                 <div class="input-group">
+                    
+                    <!-- Input fields here -->
                     <div class="input-field" id="namefield">
                         <i class="fas fa-user"></i>
-                        <input type="text" placeholder="Name">
+                        <input type="text" placeholder="Name" id="name" name="name" required>
                     </div>
 
                     <div class="input-field">
                         <i class="fas fa-envelope"></i>
-                        <input type="email" placeholder="Email Adress">
+                        <input type="email" placeholder="Email Address" id="email" name="email" required>
                     </div>
 
                     <div class="input-field">
                         <i class="fas fa-lock"></i>
-                        <input type="password" placeholder="Password">
+                        <input type="password" placeholder="Password" id="password" name="password" required>
                     </div>
-                    <p>Lost password <a href="#">Click Here!</a></p>
-                </div>
+                    <div>
+                        <p>You do not have an account? <a href="#">Sign up</a></p>
+                        <p><a href="#">You forgot your password?? </a></p>
+                    </div>
+                </div>  
+                
                 <div class="btn-field">
-                    <button type="button" id="signupBtn">Sign Up</button>
-                    <button type="button" id="loginBtn" class="disable">Login</button>
+                    <button type="submit" id="signupBtn" name="submit" class>Sign Up</button>
+                    <button type="button" id="loginBtn" name="submit" class="disable">Login</button>
                 </div>
             </form>
+
+            <!-- <form action="login_check.php" method="POST">
+                <div class="btn-field">
+                     <button type="button" id="loginBtn" name="submit" class="disable">Login</button>
+                </div>
+            </form> -->
+
         </div>
     </div>
 
-
 <script>
-    
     let signupBtn = document.getElementById("signupBtn");
     let loginBtn = document.getElementById("loginBtn");
     let namefield = document.getElementById("namefield");

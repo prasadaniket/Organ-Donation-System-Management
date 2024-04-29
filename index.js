@@ -1,41 +1,44 @@
-let navbar = document.querySelector('.navbar');
+/*=============== SHOW MENU ===============*/
+const navMenu = document.getElementById('nav-menu'),
+      navToggle = document.getElementById('nav-toggle'),
+      navClose = document.getElementById('nav-close')
 
-document.querySelector('#menu-btn').onclick = () =>{
-    navbar.classList.toggle('active');
-    searchForm.classList.remove('active');
-}
+/* Menu show */
+navToggle.addEventListener('click', () =>{
+   navMenu.classList.add('show-menu')
+})
 
-let searchForm = document.querySelector('.search-form');
+/* Menu hidden */
+navClose.addEventListener('click', () =>{
+   navMenu.classList.remove('show-menu')
+})
 
-document.querySelector('#search-btn').onclick = () =>{
-    searchForm.classList.toggle('active');
-    navbar.classList.remove('active');
-}
+/*=============== SEARCH ===============*/
+const search = document.getElementById('search'),
+      searchBtn = document.getElementById('search-btn'),
+      searchClose = document.getElementById('search-close')
 
-window.onscroll = () =>{
-    navbar.classList.remove('active');
-    searchForm.classList.remove('active');
-    cartItem.classList.remove('active');
-}
+/* Search show */
+searchBtn.addEventListener('click', () =>{
+   search.classList.add('show-search')
+})
 
+/* Search hidden */
+searchClose.addEventListener('click', () =>{
+   search.classList.remove('show-search')
+})
 
-var slideIndex = 0;
-  showSlides();
+/*=============== LOGIN ===============*/
+const login = document.getElementById('login'),
+      loginBtn = document.getElementById('login-btn'),
+      loginClose = document.getElementById('login-close')
 
-  function showSlides() {
-    var i;
-    var slides = document.getElementsByClassName("mySlides");
+/* Login show */
+loginBtn.addEventListener('click', () =>{
+   login.classList.add('show-login')
+})
 
-    for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";
-    }
-
-    slideIndex++;
-
-    if (slideIndex > slides.length) {
-      slideIndex = 1;
-    }
-
-    slides[slideIndex - 1].style.display = "block";
-    setTimeout(showSlides, 3000); // Change slide every 3 seconds (adjust as needed)
-}
+/* Login hidden */
+loginClose.addEventListener('click', () =>{
+   login.classList.remove('show-login')
+})

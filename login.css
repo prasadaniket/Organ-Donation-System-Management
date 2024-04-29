@@ -15,26 +15,26 @@
     position: relative;
 }
 
-.form-box{
+.form-box {
     width: 90%;
     max-width: 450px;
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%, -50%);
     background: #fff;
     padding: 50px 60px 70px;
     text-align: center;
 }
 
-.form-box h1{
+.form-box h1 {
     font-size: 30px;
     margin-bottom: 60px;
     color: #ca5858;
     position: relative;
 }
 
-.form-box h1::after{
+.form-box h1::after {
     content: '';
     width: 30px;
     height: 4px;
@@ -46,7 +46,7 @@
     transform: translateX(-50%);
 }
 
-.input-field{
+.input-field {
     background: #eaeaea;
     margin: 15px 0;
     border-radius: 3px;
@@ -56,7 +56,8 @@
     transition: max-height 0.5s;
     overflow: hidden;
 }
-input{
+
+input {
     width: 100%;
     background: transparent;
     border: 0;
@@ -64,28 +65,28 @@ input{
     padding: 18px 15px;
 }
 
-.input-field i{
+.input-field i {
     margin-left: 15px;
     color: #999;
 }
 
-form p{
+form p {
     text-align: left;
     font-size: 13px;
 }
 
-form p a{
+form p a {
     text-decoration: none;
     color: #ca5858;
 }
 
-.btn-field{
+.btn-field {
     width: 100%;
     display: flex;
     justify-content: space-between;
 }
 
-.btn-field button{
+.btn-field button {
     flex-basis: 48%;
     background: #ca5858;
     color: #fff;
@@ -97,11 +98,15 @@ form p a{
     transition: background 1s;
 }
 
-.input-group{
+.input-group {
     height: 280px;
 }
 
-.btn-field button.disable{
+.btn-field button.disable {
     background: #eaeaea;
     color: #555;
+}
+
+.login_button {
+    transition: box-shadow .4s;
 }
