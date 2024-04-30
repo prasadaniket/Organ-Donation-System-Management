@@ -69,7 +69,7 @@
                     only accepted but celebrated as a profound gift that transcends boundaries, saving and
                     enhancing countless lives while honoring the generosity and compassion of donors and
                     their families.</p>
-                <a href="#" class="btn">Learn More</a>
+                <a href="vision.php" class="btn">Learn More</a>
             </div>
 
         </div>
@@ -262,7 +262,6 @@
 
     <!-- Blogs section ends -->
 
-    <!-- footer section starts -->
 
     <!--
 <section class="footer">
@@ -288,6 +287,8 @@
 </section>
 -->
 
+    <!-- newsletter section starts -->
+
     <section id="newsletter" class="section-p1 section-m1">
         <div class="newstext">
             <h4>Sign Up For Newsletters</h4>
@@ -299,6 +300,10 @@
             <button class="normal">Sign Up</button>
         </div>
     </section>
+
+    <!-- newsletter section ends -->
+
+    <!-- footer section starts -->
 
     <footer class="section-p1">
         <div class="col">
