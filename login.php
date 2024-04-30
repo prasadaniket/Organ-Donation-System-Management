@@ -72,7 +72,6 @@ signupBtn.onclick = function(){
     loginBtn.classList.add("disable");
 }
 
-
 </script>
 </body>
 </html>
