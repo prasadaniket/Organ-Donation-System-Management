@@ -197,31 +197,30 @@
 
             <div class="box">
                 <div class="image">
-                    <img src="img/blog1.jpg" alt="">
+                    <img src="img/blogs/Astha/astha.jpg" alt="">
                 </div>
                 <div class="content">
-                    <a href="" class="title">The Nath Couple's Journey of Organ Donation</a>
-                    <span>by admin / 4th May, 2021</span>
-                    <p>In a testament to love transcending boundaries, Mr. and Mrs. Nath's joint decision to donate
-                        organs embodies the epitome of selflessness. Their unified act speaks volumes of compassion,
-                        echoing the profound bond that binds them. Together, they gift the ultimate legacy: the
-                        promise of life for others.</p>
-                    <a href="#" class="btn">read more</a>
+                    <a href="" class="title">Astha The Heart Transplant Recipient</a>
+                    <span>Posted on: February 8, 2023   </span>
+                    <p>I am Astha living in Khurja, Uttar Pradesh with my loving family. Leading a normal and good life.
+                        Did I mention that I’m a heart transplant recipient? Life is full of surprises and that is what are
+                        realised in 2014. I realised that whenever I put a little bit extra energy into anything that I did,
+                        I got...</p>
+                    <a href="blog1.php" class="btn">read more</a>
                 </div>
             </div>
 
             <div class="box">
                 <div class="image">
-                    <img src="img/blog2.jpg" alt="">
+                    <img src="img/blogs/Pooja/Pooja.jpg" alt="">
                 </div>
                 <div class="content">
-                    <a href="" class="title">From Tragedy to Triumph: Mrs. Preeti Unhale's Journey of Hope</a>
-                    <span>by admin / 8th June, 2021</span>
-                    <p>Mrs. Preeti Unhale, once an energetic college student, faced Cardio Myopathy, leading
-                        to a life-saving heart transplant in 2001. Grateful for the gift of life from a young
-                        donor, she now advocates for organ donation, emphasizing its power to transform tragedy
-                        into hope and normalcy into a fulfilling life.</p>
-                    <a href="#" class="btn">read more</a>
+                    <a href="" class="title">It’s The Act of Humanity, Not Gender, That Matters</a>
+                    <span>Posted on: April 29, 2022</span>
+                    <p>A family of content consisting of Papa, Mumma, four daughters, and a son. Our parents never stated 
+                        their daughters as Beti, they instead call Betu as they never believed in tagging a child as a daughter
+                         or a son, though we come from the north...</p>
+                    <a href="blog2.php" class="btn">read more</a>
                 </div>
             </div>
 
@@ -261,31 +260,6 @@
     </section>
 
     <!-- Blogs section ends -->
-
-
-    <!--
-<section class="footer">
-
-    <div class="share">
-        <a href="#" class="fab fa-facebook-f"></a>
-        <a href="#" class="fab fa-instagram"></a>
-        <a href="#" class="fab fa-x"></a>
-        <a href="#" class="fab fa-linkedin"></a>
-        <a href="#" class="fab fa-pinterest"></a>
-    </div>
-
-    <div class="links">
-        <a href="#">home</a>
-        <a href="#vision">Our Vision</a>
-        <a href="#donate-organ">Donate Organ</a>
-        <a href="#faqs">FAQ's</a>
-        <a href="#contact">contact</a>
-        <a href="#blogs">blogs</a>
-    </div>
-
-    <div class="credit">@all rights<span> reserved</span></div>
-</section>
--->
 
     <!-- newsletter section starts -->
 
