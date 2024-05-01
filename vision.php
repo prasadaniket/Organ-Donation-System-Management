@@ -7,7 +7,7 @@
     <title>Our Vision</title>
     <link rel="icon" type="image/x-icon" href="img/logo.png">
     <!-- custom css file link -->
-    <link rel="stylesheet" href="vision.css">
+    <link rel="stylesheet" href="css/vision.css">
 
     <!-- font awesome cdn link  -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
