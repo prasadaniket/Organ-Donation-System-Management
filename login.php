@@ -10,6 +10,16 @@
 
 <body>
 
+    <!-- header section starts  -->
+
+    <header class="header">
+        <a href="index.php" class="logo">
+            <img src="img/blacklogo.png" alt="">
+        </a>
+    </header>
+
+    <!-- header section ends -->
+
     <div class="container">
         <div class="form-box">
             <h1 id="title">Login</h1>
