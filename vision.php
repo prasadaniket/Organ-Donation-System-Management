@@ -55,21 +55,27 @@
 
             </div>
         </div>
+
+        <div class="row">
+            <div class="content">
+                <p>Central to our vision is the establishment of accessible pathways to donation, ensuring that
+                    those in need of life-saving organs have equitable opportunities to receive them. By bridging
+                    the gap between potential donors and recipients, we strive to mitigate disparities in access to
+                    transplantation services, ultimately saving lives and improving health outcomes for countless
+                    individuals.</p>
+
+                <p>In realizing our vision, we envision a future where organ donation is not merely tolerated but
+                    celebrated as a profound act of generosity and compassion. Each donation represents a beacon of
+                    hope, transcending societal boundaries and affirming the interconnectedness of humanity. Through
+                    the gift of organ donation, donors and their families leave an enduring legacy of kindness and
+                    compassion, touching the lives of recipients and their loved ones in profound ways.</p>
+            </div>
+        </div>
     </section>
 
     <section class="vis" id="vis">
         <div class="cont">
-            <p>Central to our vision is the establishment of accessible pathways to donation, ensuring that
-                those in need of life-saving organs have equitable opportunities to receive them. By bridging
-                the gap between potential donors and recipients, we strive to mitigate disparities in access to
-                transplantation services, ultimately saving lives and improving health outcomes for countless
-                individuals.</p>
 
-            <p>In realizing our vision, we envision a future where organ donation is not merely tolerated but
-                celebrated as a profound act of generosity and compassion. Each donation represents a beacon of
-                hope, transcending societal boundaries and affirming the interconnectedness of humanity. Through
-                the gift of organ donation, donors and their families leave an enduring legacy of kindness and
-                compassion, touching the lives of recipients and their loved ones in profound ways.</p>
             <h1>Terms and Conditions:</h1>
             <p>1. Organ donation is voluntary and without coercion.</p>
             <p>2. Donors must be of legal age or have parental consent if minors.</p>
@@ -89,27 +95,31 @@
 
     <!-- vision section ends -->
 
-    <!-- Contact section starts -->
+    <!-- contact section starts   -->
 
     <section class="contact" id="contact">
 
-        <h1 class="heading"> <span>contact</span> us </h1>
+        <h1 class="heading"> <span>Contact</span> now </h1>
 
         <div class="row">
 
-            <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60274.56241474419!2d72.
-80450439318383!3d19.231850885624077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.
-1!3m3!1m2!1s0x3be7b128b333e163%3A0x985640540577af7e!2sBorivali%2C%20Mumbai%2C%
-20Maharashtra!5e0!3m2!1sen!2sin!4v1705246986902!5m2!1sen!2sin" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <div class="image">
+                <img src="img/appointment-img.svg" alt="">
+            </div>
 
-            <form action="">
+            <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
+                <?php
+                if (isset($message)) {
+                    foreach ($message as $message) {
+                        echo '<p class ="message">' . $message . '</p>';
+                    }
+                }
+                ?>
+
                 <h3>get in touch</h3>
                 <div class="inputBox">
                     <span class="fas fa-user"></span>
-                    <input type="text" placeholder="First Name">
-
-                    <span class="fas fa-user"></span>
-                    <input type="text" placeholder="Last Name">
+                    <input type="text" placeholder="Your Name">
                 </div>
                 <div class="inputBox">
                     <span class="fas fa-envelope"></span>
@@ -121,11 +131,12 @@
                 </div>
                 <input type="submit" value="contact now" class="btn">
             </form>
+
         </div>
 
     </section>
 
-    <!-- Contact section ends -->
+    <!-- contact section ends -->
 
     <!-- newsletter section starts -->
 
@@ -143,55 +154,54 @@
 
     <!-- newsletter section ends -->
 
-    <!-- footer section starts -->
+    <!-- footer section starts  -->
 
-    <footer class="section-p1">
-        <div class="col">
-            <img class="logo" src="img/logo.png" alt="">
-            <h4>Contact</h4>
-            <p><strong>Address: </strong> 563 Borivali, Street 36, Mumbai, Maharashtra</p>
-            <p><strong>Phone :</strong>(+91) 22555 33555/ (+91) 23355 23355</p>
-            <p><strong>Hours :</strong>10:00 - 18:00, Mon - Sat</p>
-            <div class="follow">
-                <h4>Follow us</h4>
-                <div class="icon">
-                    <i class="fab fa-facebook-f"></i>
-                    <i class="fab fa-instagram"></i>
-                    <i class="fab fa-x"></i>
-                    <i class="fab fa-linkedin"></i>
-                    <i class="fab fa-youtube"></i>
-                </div>
+    <section class="footer">
+
+        <div class="box-container">
+
+            <div class="box">
+                <h3>quick links</h3>
+                <a href="index.php"> <i class="fas fa-chevron-right"></i> home </a>
+                <a href="vision.php"> <i class="fas fa-chevron-right"></i> our vision </a>
+                <a href="#services"> <i class="fas fa-chevron-right"></i> services </a>
+                <a href="#faqs"> <i class="fas fa-chevron-right"></i> faq's </a>
+                <a href="#contact"> <i class="fas fa-chevron-right"></i> Contact </a>
+                <a href="#blogs"> <i class="fas fa-chevron-right"></i> blogs </a>
             </div>
-        </div>
-        <div class="col">
-            <h4>About</h4>
-            <a href="index.php">Home</a>
-            <a href="#vision">Our Vision</a>
-            <a href="#donate-organ">Donate Organ</a>
-            <a href="#blogs">Our Blogs</a>
-            <a href="#faqs">FAQ's</a>
-            <a href="#contact">Contact Us</a>
-        </div>
-        <div class="col">
-            <h4>My Account</h4>
-            <a href="login.php">Sign in</a>
-            <a href="#">Help</a>
-        </div>
-        <div class="col install">
-            <h4>Install App</h4>
-            <p>From App Store or Google Play</p>
-            <div class="row">
-                <img src="img/pay/app.jpg" alt="">
-                <img src="img/pay/play.jpg" alt="">
+
+            <div class="box">
+                <h3>our services</h3>
+                <a href="#"> <i class="fas fa-chevron-right"></i> My Account </a>
+                <a href="#"> <i class="fas fa-chevron-right"></i> donate organ </a>
+                <a href="#"> <i class="fas fa-chevron-right"></i> request organ </a>
+                <a href="#"> <i class="fas fa-chevron-right"></i> Records </a>
+                <a href="vision.php"> <i class="fas fa-chevron-right"></i> Terms and Conditions </a>
             </div>
+
+            <div class="box">
+                <h3>appointment info</h3>
+                <a href="#"> <i class="fas fa-phone"></i> (+91) 22555 33555 </a>
+                <a href="#"> <i class="fas fa-phone"></i> (+91) 23355 23355 </a>
+                <a href="#"> <i class="fas fa-envelope"></i> revo.lifeshare@gmail.com </a>
+                <a href="#"> <i class="fas fa-envelope"></i> revo.life@gmail.com </a>
+                <a href="#"> <i class="fas fa-map-marker-alt"></i> Borivali, Street 14, Mumbai, Maharashtra </a>
+            </div>
+
+            <div class="box">
+                <h3>follow us</h3>
+                <a href="#"> <i class="fab fa-facebook"></i> facebook </a>
+                <a href="#"> <i class="fab fa-x"></i> X </a>
+                <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
+                <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
+                <a href="#"> <i class="fab fa-pinterest"></i> pinterest </a>
+            </div>
+
         </div>
 
+        <div class="credit"> © 2024. <span>REVO - Life Share</span> | all rights reserved </div>
 
-        <div class="copyright">
-            <p>© 2024. Life Share</p>
-        </div>
-
-    </footer>
+    </section>
 
     <!-- footer section ends -->
 </body>
