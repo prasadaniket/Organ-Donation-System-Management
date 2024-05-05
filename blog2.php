@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Our Vision</title>
+    <title>It’s The Act of Humanity, Not Gender, That Matters</title>
     <link rel="icon" type="image/x-icon" href="img/logo.png">
     <!-- custom css file link -->
-    <link rel="stylesheet" href="css/blog2.css">
+    <link rel="stylesheet" href="css/blogs.css">
 
     <!-- font awesome cdn link  -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
@@ -62,11 +62,9 @@
                 God like Dr. Abha Nagral, Hepatologist under whom further treatment was carried on for another 3years. As the
                 liver is the only organ that cannot be repaired when it’s damaged, Dad was at the final stage of the disease.</p>
         </div>
-    </section>
 
-    <section class="bogi" id="bog">
         <div class="row">
-            <div class="cont">
+            <div class="content">
                 <p>In conclusion, Doctor advised for Liver Transplant in January 2017 as the only option of survival. She asked
                     us to discuss this with our relatives and extended families.</p>
 
@@ -79,12 +77,12 @@
                 <p>The procedure to get the donor for a recipient is a tedious job to do.</p>
             </div>
 
-            <div class="imag">
+            <div class="image">
                 <img src="img/blogs/Pooja/Pic1.jpg" alt="">
             </div>
         </div>
 
-        <div class="cont">
+        <div class="content">
             <p> We had to first register Dad’s name in various government lists whereby a huge volume of recipients was already waiting
                 for their turn to get the organ. But at the same time, we couldn’t wait till his turn as he was crossing down his
                 final stage of the disease.</p>
@@ -95,11 +93,11 @@
         </div>
 
         <div class="row">
-            <div class="imag">
+            <div class="image">
                 <img src="img/blogs/Pooja/Pic2.jpg" alt="">
             </div>
 
-            <div class="cont">
+            <div class="content">
                 <p>The moment we got to know that one of us from the family eligible can be the donor, I got a gut feeling of becoming
                     his eligible and fit donor as I was always into fitness and sports. But to be a donor, one needs to get through
                     around 12-14 tests from head to toe to find the suitability, which I fortunately passed. This wasn’t just enough,
@@ -112,7 +110,7 @@
             </div>
         </div>
 
-        <div class="cont">
+        <div class="content">
             <p>Thus, we had a sell-off of one of our possessions. Amount received was not enough and so we started visiting various Trusts
                 and Foundations. There is usually a belief amongst people that these foundations make you take thousands of
                 rounds and many a time even then you won’t cater the help. But, that’s not really true, at least in our case.
@@ -121,14 +119,15 @@
                 for financial assistance. We visited their offices and raised request for financial support. We had to submit
                 few reports and documents claiming father’s medical position and hospital’s request letter stating the details
                 of illness, quotation of surgery.</p>
-
-            <p>Dad was already there in the hospital and I was admitted a day prior to the surgery. When I visited him in the
-                same patient clothes as he was wearing, he had a wide smile. That was the first time after such long years we
-                saw him happy though he was in hallucination all during those times.</p>
         </div>
 
         <div class="row">
-            <div class="cont">
+            <div class="content">
+
+                <p>Dad was already there in the hospital and I was admitted a day prior to the surgery. When I visited him in the
+                    same patient clothes as he was wearing, he had a wide smile. That was the first time after such long years we
+                    saw him happy though he was in hallucination all during those times.</p>
+
                 <p>7th June 2017, the transplant day. I didn’t sleep the entire night and was eagerly waiting for the sunrise.
                     Before the morning, my siblings and friends dropped in to give courage and support. Nurses got me ready in
                     green operation robe and took me to the operation theatre @ 8 am sharp. The journey from the room towards
@@ -139,29 +138,29 @@
                     storm.</p>
             </div>
 
-            <div class="imag">
+            <div class="image">
                 <img src="img/blogs/Pooja/Pic3.jpg" alt="">
             </div>
         </div>
 
-        <div class="cont">
+        <div class="content">
             <p> The only regret I had in my mind as I haven’t met Mumma before getting in the OT as she was accompanying Dad in
                 his room. As it was stated that there’s no guarantee of recipient or donor’s survival post-transplant, I intensely
                 prayed Bhagwaan Ji (God) to gift Dad to Mumma who strived so hard for him, who stayed up infinite restless
                 nights to take care of him, who never showed her tears in front of her kids and husband just to keep everyone
                 motivated and shower courage. She without a doubt, deserves to be with him for all seven births.</p>
-
-            <p>It took 12 hours for Dad’s surgery and 10 hours for mine. I was so dying for his surgery to be successful. And the moment
-                I got to know; I was ecstatic. Since then, there’s never a moment when my family and friends don’t feel proud of me.
-                The bonding amongst the family got stronger and healthier day by day.</p>
         </div>
 
         <div class="row">
-            <div class="imag">
+            <div class="image">
                 <img src="img/blogs/Pooja/Pic4.jpg" alt="">
             </div>
 
-            <div class="cont">
+            <div class="content">
+                <p>It took 12 hours for Dad’s surgery and 10 hours for mine. I was so dying for his surgery to be successful. And the moment
+                    I got to know; I was ecstatic. Since then, there’s never a moment when my family and friends don’t feel proud of me.
+                    The bonding amongst the family got stronger and healthier day by day.</p>
+
                 <p>Society didn’t fail to criticize the decision of me donating my liver to Dad. Society is far off thing, even our
                     relatives would murmur to Mumma stating <b>“How can you leave your daughter to die?”, “Who will marry your daughter?”,
                         “What if she gets pregnancy issues?”.</b> Mumma was all used to keep on thinking about the answers to such questions.
@@ -177,27 +176,24 @@
             </div>
         </div>
 
-        <div class="cont">
-        </div>
-
         <div class="row">
-            <div class="cont">
-            <p>I always thought of what I can do to make my Family proud as all our parents usually give us examples of our
-                surrounding kids and compare their successes with us. But here, I didn’t have to study really hard or get a 
-                job in a multi-national company to make my parents proud of me. I just worked on an opportunity of kindness and 
-                fortunately got to contribute my bit for my parents.</p>
+            <div class="content">
+                <p>I always thought of what I can do to make my Family proud as all our parents usually give us examples of our
+                    surrounding kids and compare their successes with us. But here, I didn’t have to study really hard or get a
+                    job in a multi-national company to make my parents proud of me. I just worked on an opportunity of kindness and
+                    fortunately got to contribute my bit for my parents.</p>
 
-                <p>Now, I feel immensely pleased when Papa proudly says to his friends <b>“Betu Ho Toh Aisi Ho”.</b> The moral being: <b>“It’s 
-                    The Act of Humanity, Not Gender, That Matters”</b></p>
+                <p>Now, I feel immensely pleased when Papa proudly says to his friends <b>“Betu Ho Toh Aisi Ho”.</b> The moral being: <b>“It’s
+                        The Act of Humanity, Not Gender, That Matters”</b></p>
 
-                <p>We all can become superheroes here. Just a pinch of kindness, humanity, and concern is all we need. Our act of organ 
-                    donation can create a huge positive difference in someone’s life. Without a doubt, this would make us immortal in 
+                <p>We all can become superheroes here. Just a pinch of kindness, humanity, and concern is all we need. Our act of organ
+                    donation can create a huge positive difference in someone’s life. Without a doubt, this would make us immortal in
                     this world even after our existence. How wonderful can it be…!</p>
 
                 <p><b>ACT LIKE A HERO… BE A HERO…!!!</b></p>
             </div>
 
-            <div class="imag">
+            <div class="image">
                 <img src="img/blogs/Pooja/Pic5.jpg" alt="">
             </div>
         </div>
@@ -213,14 +209,14 @@
             </div>
 
             <div class="content">
-                <p>Pooja Shriram Bijarnia works with Reliance Jio, is a rifle shooter and a sports host. She has done her 
-                    Post-Graduation in Artificial Intelligence & Machine Learning, has an MBA in Marketing and has done a 
-                    Sports Journalism Course! Her list of accomplishments doesn’t end here! Her aim is to represent India 
-                    in Rifle Shooting and to create positive difference in the society in regards of organ donation. She 
-                    is looking forward to her participation at the World Transplant Games 2023 at Perth Australia. Well-known 
-                    on social media for her kind act of donating liver to her father who went through liver transplant in 
-                    2017 she is a motivational speaker in corporate and educational institutions. She is also a social 
-                    activist working towards spreading awareness for organ donation. Her Mantra: “In a world where you can 
+                <p>Pooja Shriram Bijarnia works with Reliance Jio, is a rifle shooter and a sports host. She has done her
+                    Post-Graduation in Artificial Intelligence & Machine Learning, has an MBA in Marketing and has done a
+                    Sports Journalism Course! Her list of accomplishments doesn’t end here! Her aim is to represent India
+                    in Rifle Shooting and to create positive difference in the society in regards of organ donation. She
+                    is looking forward to her participation at the World Transplant Games 2023 at Perth Australia. Well-known
+                    on social media for her kind act of donating liver to her father who went through liver transplant in
+                    2017 she is a motivational speaker in corporate and educational institutions. She is also a social
+                    activist working towards spreading awareness for organ donation. Her Mantra: “In a world where you can
                     be anything, Be Kind”.</p>
             </div>
         </div>
@@ -228,27 +224,31 @@
 
     <!-- blog1 section ends -->
 
-    <!-- Contact section starts -->
+    <!-- contact section starts   -->
 
     <section class="contact" id="contact">
 
-        <h1 class="heading"> <span>contact</span> us </h1>
+        <h1 class="heading"> <span>Contact</span> now </h1>
 
         <div class="row">
 
-            <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60274.56241474419!2d72.
-80450439318383!3d19.231850885624077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.
-1!3m3!1m2!1s0x3be7b128b333e163%3A0x985640540577af7e!2sBorivali%2C%20Mumbai%2C%
-20Maharashtra!5e0!3m2!1sen!2sin!4v1705246986902!5m2!1sen!2sin" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <div class="image">
+                <img src="img/appointment-img.svg" alt="">
+            </div>
 
-            <form action="">
+            <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
+                <?php
+                if (isset($message)) {
+                    foreach ($message as $message) {
+                        echo '<p class ="message">' . $message . '</p>';
+                    }
+                }
+                ?>
+
                 <h3>get in touch</h3>
                 <div class="inputBox">
                     <span class="fas fa-user"></span>
-                    <input type="text" placeholder="First Name">
-
-                    <span class="fas fa-user"></span>
-                    <input type="text" placeholder="Last Name">
+                    <input type="text" placeholder="Your Name">
                 </div>
                 <div class="inputBox">
                     <span class="fas fa-envelope"></span>
@@ -260,11 +260,12 @@
                 </div>
                 <input type="submit" value="contact now" class="btn">
             </form>
+
         </div>
 
     </section>
 
-    <!-- Contact section ends -->
+    <!-- contact section ends -->
 
     <!-- newsletter section starts -->
 
@@ -282,55 +283,54 @@
 
     <!-- newsletter section ends -->
 
-    <!-- footer section starts -->
+    <!-- footer section starts  -->
 
-    <footer class="section-p1">
-        <div class="col">
-            <img class="logo" src="img/logo.png" alt="">
-            <h4>Contact</h4>
-            <p><strong>Address: </strong> 563 Borivali, Street 36, Mumbai, Maharashtra</p>
-            <p><strong>Phone :</strong>(+91) 22555 33555/ (+91) 23355 23355</p>
-            <p><strong>Hours :</strong>10:00 - 18:00, Mon - Sat</p>
-            <div class="follow">
-                <h4>Follow us</h4>
-                <div class="icon">
-                    <i class="fab fa-facebook-f"></i>
-                    <i class="fab fa-instagram"></i>
-                    <i class="fab fa-x"></i>
-                    <i class="fab fa-linkedin"></i>
-                    <i class="fab fa-youtube"></i>
-                </div>
+    <section class="footer">
+
+        <div class="box-container">
+
+            <div class="box">
+                <h3>quick links</h3>
+                <a href="index.php"> <i class="fas fa-chevron-right"></i> home </a>
+                <a href="vision.php"> <i class="fas fa-chevron-right"></i> our vision </a>
+                <a href="#services"> <i class="fas fa-chevron-right"></i> services </a>
+                <a href="#faqs"> <i class="fas fa-chevron-right"></i> faq's </a>
+                <a href="#contact"> <i class="fas fa-chevron-right"></i> Contact </a>
+                <a href="#blogs"> <i class="fas fa-chevron-right"></i> blogs </a>
             </div>
-        </div>
-        <div class="col">
-            <h4>About</h4>
-            <a href="index.php">Home</a>
-            <a href="#vision">Our Vision</a>
-            <a href="#donate-organ">Donate Organ</a>
-            <a href="#blogs">Our Blogs</a>
-            <a href="#faqs">FAQ's</a>
-            <a href="#contact">Contact Us</a>
-        </div>
-        <div class="col">
-            <h4>My Account</h4>
-            <a href="login.php">Sign in</a>
-            <a href="#">Help</a>
-        </div>
-        <div class="col install">
-            <h4>Install App</h4>
-            <p>From App Store or Google Play</p>
-            <div class="row">
-                <img src="img/pay/app.jpg" alt="">
-                <img src="img/pay/play.jpg" alt="">
+
+            <div class="box">
+                <h3>our services</h3>
+                <a href="#"> <i class="fas fa-chevron-right"></i> My Account </a>
+                <a href="#"> <i class="fas fa-chevron-right"></i> donate organ </a>
+                <a href="#"> <i class="fas fa-chevron-right"></i> request organ </a>
+                <a href="#"> <i class="fas fa-chevron-right"></i> Records </a>
+                <a href="vision.php"> <i class="fas fa-chevron-right"></i> Terms and Conditions </a>
             </div>
+
+            <div class="box">
+                <h3>appointment info</h3>
+                <a href="#"> <i class="fas fa-phone"></i> (+91) 22555 33555 </a>
+                <a href="#"> <i class="fas fa-phone"></i> (+91) 23355 23355 </a>
+                <a href="#"> <i class="fas fa-envelope"></i> revo.lifeshare@gmail.com </a>
+                <a href="#"> <i class="fas fa-envelope"></i> revo.life@gmail.com </a>
+                <a href="#"> <i class="fas fa-map-marker-alt"></i> Borivali, Street 14, Mumbai, Maharashtra </a>
+            </div>
+
+            <div class="box">
+                <h3>follow us</h3>
+                <a href="#"> <i class="fab fa-facebook"></i> facebook </a>
+                <a href="#"> <i class="fab fa-x"></i> X </a>
+                <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
+                <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
+                <a href="#"> <i class="fab fa-pinterest"></i> pinterest </a>
+            </div>
+
         </div>
 
+        <div class="credit"> © 2024. <span>REVO - Life Share</span> | all rights reserved </div>
 
-        <div class="copyright">
-            <p>© 2024. Life Share</p>
-        </div>
-
-    </footer>
+    </section>
 
     <!-- footer section ends -->
 </body>
