@@ -151,50 +151,67 @@ section:nth-child(even){
     display: none;
 }
 
-.vision .row {
+.blog1 .row {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
 }
 
-.vision .row .image {
-    flex: 1 1 30rem;
+.blog1 .row .image {
+    flex: 1 1 45rem;
 }
 
-.vision .row .image img {
+.blog1 .row .image img {
     width: 100%;
 }
 
-.vision .row .content {
+.blog1 .row .imag {
+    flex: 1 1 30rem;
+}
+
+.blog1 .row .imag img {
+    width: 100%;
+}
+
+.blog1 .row .content {
     flex: 1 1 45rem;
     padding: 2rem;
 }
 
-.vision .row .content p {
+.blog1 .row .content p {
     font-size: 2rem;
     color: #000000;
     padding: 1rem 0;
     line-height: 1.8;
 }
 
-.vis .cont {
+.blog1 .content p {
+    font-size: 2rem;
+    color: #000000;
+    padding: 1rem 0;
+    line-height: 1.8;
+}
+
+.blog1 .row .cont {
     flex: 1 1 85rem;
     padding: 2rem;
 }
 
-.vis .cont p {
+.blog1 .row .cont p {
     font-size: 2rem;
     color: #000000;
     padding: 1rem 0;
     line-height: 1.8;
 }
 
-.vis .cont h1 {
+.blog1 .cont p {
     font-size: 2rem;
     color: #000000;
     padding: 1rem 0;
     line-height: 1.8;
 }
+
+
 
 
 
